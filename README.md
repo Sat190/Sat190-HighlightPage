@@ -90,6 +90,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
     ```yml
     theme: minima
+ 
     ```
 1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
 1. Commit your changes.
@@ -107,7 +108,8 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 <details id=3>
 <summary><h2>Step 3: Customize your homepage</h2></summary>
 
-_Nice work setting the theme! :sparkles:_
+_Nice work setting the 
+  ! :sparkles:_
 
 You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
